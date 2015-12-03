@@ -144,3 +144,8 @@ body {
 .cnm-color9 {
   color: #F8BF2F;
 }
+
+.anchor {
+    padding-top:73px; 
+    margin-top:-73px;
+}
