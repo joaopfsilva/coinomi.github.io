@@ -1,0 +1,77 @@
+- name: Bitcoin
+  url: https://bitcoin.org/en/
+
+- name: Blackcoin
+  url: http://www.blackcoin.co/
+
+- name: Cannacoin
+  url: http://cannacoin.cc/
+
+- name: Canada eCoin
+  url: http://www.canadaecoin.ca/
+
+- name: Clams
+  url: http://www.clamcoin.org/
+
+- name: Dash
+  url: https://www.dashpay.io/
+
+- name: Digibyte
+  url: http://www.digibyte.co/
+
+- name: Digitalcoin
+  url: http://digitalcoin.co/
+
+- name: Dogecoin
+  url: http://dogecoin.com/
+
+- name: DogecoinDark
+  url: http://dogecoindark.net/
+
+- name: Feathercoin
+  url: https://www.feathercoin.com/
+
+- name: GCRcoin
+  url: http://gcrcoin.com/
+
+- name: Jumbucks
+  url: http://getjumbucks.com/
+
+- name: Litecoin
+  url: https://litecoin.org/
+
+- name: Monacoin
+  url: http://monacoin.org/
+
+- name: Namecoin
+  url: https://namecoin.info/
+
+- name: Neoscoin
+  url: http://www.neoscoin.com/
+
+- name: Novacoin
+  url: http://novacoin.org/
+
+- name: NuBits
+  url: https://nubits.com/
+
+- name: NuShares
+  url: https://nubits.com/nushares/introduction
+
+- name: Peercoin
+  url: http://peercoin.net/
+
+- name: Reddcoin
+  url: https://www.reddcoin.com/
+
+- name: Rubycoin
+  url: http://www.rubycoin.org/
+
+- name: ShadowCash
+  url: http://aboutshadow.com/
+
+- name: Vertcoin
+  url: https://vertcoin.org/
+
+- name: Vpncoin
+  url: https://bitcointalk.org/index.php?topic=705446.0
