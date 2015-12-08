@@ -1,77 +1,119 @@
 - name: Bitcoin
   url: https://bitcoin.org/en/
+  icon: bitcoin
 
 - name: Blackcoin
   url: http://www.blackcoin.co/
+  icon: blackcoin
 
 - name: Cannacoin
   url: http://cannacoin.cc/
+  icon: cannacoin
 
 - name: Canada eCoin
   url: http://www.canadaecoin.ca/
+  icon: canadaecoin
 
 - name: Clams
   url: http://www.clamcoin.org/
+  icon: clams
 
 - name: Dash
   url: https://www.dashpay.io/
+  icon: dash
 
 - name: Digibyte
   url: http://www.digibyte.co/
+  icon: digibyte
 
 - name: Digitalcoin
   url: http://digitalcoin.co/
+  icon: digitalcoin
 
 - name: Dogecoin
   url: http://dogecoin.com/
+  icon: dogecoin
 
 - name: DogecoinDark
   url: http://dogecoindark.net/
+  icon: dogecoindark
 
 - name: Feathercoin
   url: https://www.feathercoin.com/
+  icon: feathercoin
 
 - name: GCRcoin
   url: http://gcrcoin.com/
+  icon: gcr
 
 - name: Jumbucks
   url: http://getjumbucks.com/
+  icon: jumbucks
 
 - name: Litecoin
   url: https://litecoin.org/
+  icon: litecoin
 
 - name: Monacoin
   url: http://monacoin.org/
+  icon: monacoin
 
 - name: Namecoin
   url: https://namecoin.info/
+  icon: namecoin
 
 - name: Neoscoin
   url: http://www.neoscoin.com/
+  icon: neoscoin
 
 - name: Novacoin
   url: http://novacoin.org/
+  icon: novacoin
 
 - name: NuBits
   url: https://nubits.com/
+  icon: nubits
 
 - name: NuShares
   url: https://nubits.com/nushares/introduction
+  icon: nushares
+
+- name: ParkByte
+  url: https://www.parkbyte.com/
+  icon: parkbyte
 
 - name: Peercoin
   url: http://peercoin.net/
+  icon: peercoin
 
 - name: Reddcoin
   url: https://www.reddcoin.com/
+  icon: reddcoin
 
 - name: Rubycoin
   url: http://www.rubycoin.org/
+  icon: rubycoin
 
 - name: ShadowCash
   url: http://aboutshadow.com/
+  icon: shadowcash
 
 - name: Vertcoin
   url: https://vertcoin.org/
+  icon: vertcoin
 
 - name: Vpncoin
   url: https://bitcointalk.org/index.php?topic=705446.0
+  icon: vpncoin
+
+- name: Bitcoin Test
+  url: https://bitcoin.org/en/
+  icon: bitcoin_test
+
+- name: Dogecoin Test
+  url: http://dogecoin.com/
+  icon: dogecoin_test
+
+- name: Litecoin Test
+  url: https://litecoin.org/
+  icon: litecoin_test

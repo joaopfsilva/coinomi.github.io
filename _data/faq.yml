@@ -1,0 +1,50 @@
+- question: How much do I have to pay to use Coinomi?
+  answer: Absolutely nothing. Coinomi is a <strong>free</strong> wallet.
+  code: free-wallet
+  category: general
+
+- question: Do you charge me for accepting or sending payments?
+  answer: No.
+  code: no-charge-for-incoming-outgoing-payments
+  category: general
+  
+- question: How can I integrate a coin that is not already supported by Coinomi?
+  answer: If you want to add support for your coin to Coinomi please <a href="../AddingSupportForANewCurrency/">follow the instructions</a>. If you don't know how or would rather have someone qualified do this please <a href="../support/">get in touch with us</a>.
+  code: add-support-for-new-coin
+  category: general
+  
+- question: I want to install Coinomi but Play Store is not available in my country.
+  answer: You can install the <a href="https://github.com/Coinomi/coinomi-android/releases/latest">APK file</a> for the latest version directly to your device. (see also <a href="http://www.cnet.com/how-to/how-to-install-apps-outside-of-google-play/" target="_blank">"How to install apps outside of Google Play" tutorial</a>)
+  code: playstore-not-available-in-my-country
+  category: general
+  
+- question: I restored my wallet using the correct passphrase but I don't see my funds.
+  answer: Most probably it's because you have activated the BIP39 passphrase but you didn't activate it throughout the restoration process, so you will have to repeat it.
+  code: restored-wallet-dont-see-funds
+  category: general
+  
+- question: I have forgotten my app password, is it possible to recover it?
+  answer: It is possible if you haven't enabled BIP39 passphrase with your recovery phrase. To test it, use <a href="../recovery-phrase-tool.html" target="_blank">this tool</a> with your recovery phrase and look if the addresses in the "Derived Addresses" section match the addresses in your wallet. If this is the case you can restore your wallet with your recovery phrase and set a new password. If however the addresses don't match, you will need to remember your password and enter it to the "BIP39 Passphrase (optional)" field.
+  code: forgot-app-password-how-to-recover-it
+  category: general
+  
+- question: I'm not sure that I have written down my passphrase correctly, how can I check it?
+  answer: You can use <a href="../recovery-phrase-tool.html" target="_blank">this tool</a> to check your passphrase, even while you are off-line.
+  code: how-to-check-passphrase-validity
+  category: general
+  
+- question: Does using the same passphrase for all coin instances make my wallet less secure or prone to someone brute-forcing my passphrase?
+  answer: Absolutely not.
+  code: same-passphrase-all-coins-concern
+  category: general
+  
+- question: Can I install Coinomi on my BlackBerry?
+  answer: Yes, provided that it's version 10.2 or newer. Please follow the instructions provided <a href="http://crackberry.com/how-install-android-app-apk-blackberry" target="_blank">here</a>. The APK for Coinomi is <a href="https://github.com/Coinomi/coinomi-android/releases/latest">here</a>. 
+  code: install-coinomi-blackberry
+  category: general
+  
+- question: Where can I reach you on social media?
+  answer: We have an account on <a href="https://twitter.com/coinomiwallet" target="_blank">Twitter</a> and on <a href="https://www.facebook.com/pages/Coinomi/743756395745507" target="_blank">Facebook</a>.
+  code: social-media-accounts
+  category: general
+
