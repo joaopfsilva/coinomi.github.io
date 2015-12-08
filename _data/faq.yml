@@ -4,13 +4,13 @@
   category: general
 
 - question: Do you charge me for accepting or sending payments?
-  answer: No.
+  answer: No, we don't.
   code: no-charge-for-incoming-outgoing-payments
   category: general
   
 - question: How can I integrate a coin that is not already supported by Coinomi?
   answer: If you want to add support for your coin to Coinomi please <a href="../AddingSupportForANewCurrency/">follow the instructions</a>. If you don't know how or would rather have someone qualified do this please <a href="../support/">get in touch with us</a>.
-  code: add-support-for-new-coin
+  code: integrate-coin
   category: general
   
 - question: I want to install Coinomi but Play Store is not available in my country.
@@ -38,11 +38,36 @@
   code: same-passphrase-all-coins-concern
   category: general
   
+- question: Is Coinomi available for iOS?
+  answer: It will be soon enough, we are working on it.
+  code: ios-version
+  category: general
+  
 - question: Can I install Coinomi on my BlackBerry?
   answer: Yes, provided that it's version 10.2 or newer. Please follow the instructions provided <a href="http://crackberry.com/how-install-android-app-apk-blackberry" target="_blank">here</a>. The APK for Coinomi is <a href="https://github.com/Coinomi/coinomi-android/releases/latest">here</a>. 
   code: install-coinomi-blackberry
   category: general
   
+- question: Is there a desktop version of Coinomi?
+  answer: We are planning to release a desktop version of Coinomi for Windows, Linux and Mac in a few months.
+  code: desktop-edition
+  category: general
+  
+- question: Do you log my activity in your servers?
+  answer: No, we don't.
+  code: log-user-activity
+  category: general
+  
+- question: If a hacker penetrates your servers will he steal my coins?
+  answer: Absolutely not, the private keys that control your coins are on your device, not on our servers.
+  code: private-keys-on-device-only
+  category: general
+
+- question: What if I lose my phone?
+  answer: As long as your wallet is password protected and you have written down your seed phrase you can restore your wallet on a new device.
+  code: what-if-I-lose-my-phone
+  category: general
+    
 - question: Where can I reach you on social media?
   answer: We have an account on <a href="https://twitter.com/coinomiwallet" target="_blank">Twitter</a> and on <a href="https://www.facebook.com/pages/Coinomi/743756395745507" target="_blank">Facebook</a>.
   code: social-media-accounts
