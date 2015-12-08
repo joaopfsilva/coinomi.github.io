@@ -67,6 +67,16 @@
   answer: As long as your wallet is password protected and you have written down your seed phrase you can restore your wallet on a new device.
   code: what-if-I-lose-my-phone
   category: general
+
+- question: I have changed coins using the integrated ShapeShift exchange but I don't see it going through.
+  answer: Please advise <a href="https://shapeshift.zendesk.com/hc/en-us/articles/202585582-What-happens-if-my-transaction-doesn-t-go-through-">this article</a> 
+  code: shapeshift-tx-stuck
+  category: general
+
+- question: I want to translate Coinomi to my language.
+  answer: We would love to have Coinomi translated to your language, please <a href="../support/">contact us</a> for more.
+  code: translate-coinomi
+  category: general
     
 - question: Where can I reach you on social media?
   answer: We have an account on <a href="https://twitter.com/coinomiwallet" target="_blank">Twitter</a> and on <a href="https://www.facebook.com/pages/Coinomi/743756395745507" target="_blank">Facebook</a>.
