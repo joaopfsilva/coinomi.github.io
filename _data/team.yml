@@ -1,0 +1,21 @@
+- name: John L. Jegutanis
+  role: Founder & CTO
+  photo: JohnLJegutanis
+  linkedin: https://linkedin.com/in/johnjegutanis
+  github: https://github.com/erasmospunk
+  twitter: https://twitter.com/erasmospunk
+
+- name: George Kimionis
+  role: Founder & CEO
+  photo: GeorgeKimionis
+  linkedin: https://linkedin.com/in/kimionis
+  github: https://github.com/GeorgeKimionis
+  twitter: https://twitter.com/kimionis
+
+- name: Bill Perlis
+  role: CSO
+  photo: BillPerlis
+  linkedin: 
+  github: https://github.com/vbecas
+  twitter: 
+

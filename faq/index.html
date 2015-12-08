@@ -1,0 +1,29 @@
+---
+layout: default
+title: Coinomi - F.A.Q.
+---
+<div class="container">
+<center><h4>Frequently Asked Questions</h4></center>
+    <div class="panel-group" id="accordion">
+        <div class="faqHeader">General questions</div>
+        
+    {% for faq in site.data.faq %}
+        {% if faq.category == "general" %}
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#{{ faq.code }}">{{ faq.question }}</a>
+                </h4>
+            </div>
+            <div id="{{ faq.code }}" class="panel-collapse collapse">
+                <div class="panel-body">
+                    {{ faq.answer }}
+                </div>
+            </div>
+        </div>
+        {% endif %}
+    {% endfor %}
+
+    </div>
+</div>
+
