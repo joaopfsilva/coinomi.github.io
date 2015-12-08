@@ -151,7 +151,7 @@ body {
   margin-top:-73px;
 }
 
-.navbar-logo {
+/*.navbar-logo {
   opacity: 0.85;
   filter: alpha(opacity=85);
 }
@@ -160,17 +160,24 @@ body {
   opacity: 1.0;
   filter: alpha(opacity=100);
 }
+*/
 
 .faqHeader {
   font-size: 24px;
   margin: 20px;
 }
 
+.supported-coins {
+  padding-bottom:25px; 
+  text-align:center; 
+  vertical-align:middle;
+}
 
 /* custom navbar color scheme START */
+/* gkim says: to change colors visit: http://work.smarchal.com/twbscolor/css/e74c3cc0392becf0f1ffbbbc0 */
 .navbar-default {
   background-color: #03a9f4;
-  border-color: #0277bd;
+  border-color: #039be5;
 }
 .navbar-default .navbar-brand {
   color: #ffffff;
@@ -189,17 +196,17 @@ body {
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   color: #b3e5fc;
-  background-color: #0277bd;
+  background-color: #039be5;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
   color: #b3e5fc;
-  background-color: #0277bd;
+  background-color: #039be5;
 }
 .navbar-default .navbar-toggle {
-  border-color: #0277bd;
+  border-color: #039be5;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-  background-color: #0277bd;
+  background-color: #039be5;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #ffffff;
@@ -224,7 +231,7 @@ body {
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #b3e5fc;
-    background-color: #0277bd;
+    background-color: #039be5;
   }
 }
 /* custom navbar color scheme END */
