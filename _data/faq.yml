@@ -9,7 +9,7 @@
   category: general
   
 - question: How can I integrate a coin that is not already supported by Coinomi?
-  answer: If you want to add support for your coin to Coinomi please <a href="../AddingSupportForANewCurrency/">follow the instructions</a>. If you don't know how or would rather have someone qualified do this please <a href="../support/">get in touch with us</a>.
+  answer: If you want to add support for your coin to Coinomi please <a href="../AddingSupportForANewCurrency/">follow the instructions</a>. If you don't know how or would rather have someone qualified to do this please <a href="../support/">get in touch with us</a>.
   code: integrate-coin
   category: general
   
@@ -77,7 +77,17 @@
   answer: We would love to have Coinomi translated to your language, please <a href="../support/">contact us</a> for more.
   code: translate-coinomi
   category: general
-    
+
+- question: Can I import my Electrum seed into Coinomi?
+  answer: Unfortunately the Electrum seed is not compatible with BIP32/BIP44 which is essentially what Coinomi implements so no, you cannot import your Electrum seed into Coinomi at the moment, although this might be possible in the future.
+  code: import-electrum-seed-into-coinomi
+  category: general
+
+- question: Can I import my Coinomi seed into Electrum?
+  answer: Yes, you can.<br /><ol><li>Go to this <a href="../recovery-phrase-tool.html" target="_blank">recovery phrase tool</a> and enter your recovery phrase.</li><li>Look in the Derived Addresses list. Are these addresses yours? If not you have to enter your BIP39 passphrase in the BIP39 Passphrase (optional) field until you get the correct addresses.</li><li>Go to the Derivation Path and click BIP32, in the BIP32 Derivation Path field write m/44'/0'/0'</li><li>Copy the BIP32 Extended Key that starts with xpriv...</li><li>Go to Electrum and then File -&gt; New/Restore</li><li>In the Install wizard select Restore a wallet or import keys and press next</li><li>Paste your xpriv... key and press next</li><li>Set a password and you are done</li></ol>
+  code: import-coinomi-seed-into-electrum
+  category: general
+        
 - question: Where can I reach you on social media?
   answer: We have an account on <a href="https://twitter.com/coinomiwallet" target="_blank">Twitter</a> and on <a href="https://www.facebook.com/pages/Coinomi/743756395745507" target="_blank">Facebook</a>.
   code: social-media-accounts
