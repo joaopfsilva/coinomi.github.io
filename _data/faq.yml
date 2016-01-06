@@ -74,7 +74,7 @@
   category: general
 
 - question: I want to translate Coinomi to my language.
-  answer: We would love to have Coinomi translated to your language, please <a href="../support/">contact us</a> for more.
+  answer: We would love to have Coinomi translated to your language please create an account and start translating <a href="https://coinomi.oneskyapp.com/collaboration/project/15517" target="_blank">here</a> or <a href="../support/">contact us</a> for more.
   code: translate-coinomi
   category: general
 
@@ -86,6 +86,27 @@
 - question: Can I import my Coinomi seed into Electrum?
   answer: Yes, you can.<br /><ol><li>Go to this <a href="../recovery-phrase-tool.html" target="_blank">recovery phrase tool</a> and enter your recovery phrase.</li><li>Look in the Derived Addresses list. Are these addresses yours? If not you have to enter your BIP39 passphrase in the BIP39 Passphrase (optional) field until you get the correct addresses.</li><li>Go to the Derivation Path and click BIP32, in the BIP32 Derivation Path field write m/44'/0'/0'</li><li>Copy the BIP32 Extended Key that starts with xpriv...</li><li>Go to Electrum and then File -&gt; New/Restore</li><li>In the Install wizard select Restore a wallet or import keys and press next</li><li>Paste your xpriv... key and press next</li><li>Set a password and you are done</li></ol>
   code: import-coinomi-seed-into-electrum
+  category: general
+
+- question: Can I import a standard private key to Coinomi?
+  answer: No, you cannot, although this will be available soon.
+  code: import-standard-key-to-coinomi
+  category: general
+
+- question: Can I export my private keys from Coinomi?
+  answer: You can extract your keys by entering your seed phrase to <a href="https://coinomi.com/recovery-phrase-tool.html">this tool</a>. It runs locally in your browser so there's no sensitive information sent across the internet.
+  code: export-private-keys-from-coinomi
+  category: general
+        
+- question: Can I import and use my Coinomi private keys to another non-HD wallet?
+  answer: You could although sharing keys across HD and non-HD wallets could cause adverse effects when spending the outputs controlled by these keys from the non-HD wallet.
+  code: import-keys-to-non-hd-wallet
+  category: general
+        
+        
+- question: My coins are very volatile and I'm worried I might lose part of my funds if price goes down, can I lock them somehow?
+  answer: You can turn your coins to NuBits through our integrated exchange. NuBits are pegged to the US Dollar at a 1 to 1 ratio, so 1 NuBit is equal to 1 US dollar in value. Unlike other wallets, with Coinomi and NuBits you can have your funds "locked" without leaving them exposed to hackers and shutdowns at an exchange, as NuBits will be kept at all times in your device.
+  code: how-to-lock-my-funds
   category: general
         
 - question: Where can I reach you on social media?
