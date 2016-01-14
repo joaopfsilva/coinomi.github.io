@@ -98,7 +98,7 @@
   code: export-private-keys-from-coinomi
   category: general
         
-- question: Can I import and use my Coinomi private keys to another non-HD wallet?
+- question: Can I import my Coinomi private keys to another non-HD wallet?
   answer: You could although sharing keys across HD and non-HD wallets could cause adverse effects when spending the outputs controlled by these keys from the non-HD wallet.
   code: import-keys-to-non-hd-wallet
   category: general

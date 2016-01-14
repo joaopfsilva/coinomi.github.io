@@ -173,6 +173,12 @@ body {
   vertical-align:middle;
 }
 
+.footer-span
+{
+  margin-left:10px;
+  margin-right:10px;
+}
+
 /* custom navbar color scheme START */
 /* gkim says: to change colors visit: http://work.smarchal.com/twbscolor/css/e74c3cc0392becf0f1ffbbbc0 */
 .navbar-default {
