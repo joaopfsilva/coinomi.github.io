@@ -2,6 +2,18 @@
   url: https://bitcoin.org/en/
   icon: bitcoin
 
+- name: Asiacoin
+  url: http://www.thecoin.asia/
+  icon: asiacoin
+
+- name: Auroracoin
+  url: http://aurarad.is/
+  icon: auroracoin
+
+- name: Bata
+  url: http://www.bata.io/
+  icon: batacoin
+
 - name: Blackcoin
   url: http://www.blackcoin.co/
   icon: blackcoin
@@ -17,6 +29,10 @@
 - name: Clams
   url: http://www.clamcoin.org/
   icon: clams
+
+- name: Clubcoin
+  url: http://clubcoin.co/
+  icon: clubcoin
 
 - name: Dash
   url: https://www.dashpay.io/
@@ -34,13 +50,17 @@
   url: http://dogecoin.com/
   icon: dogecoin
 
-- name: DogecoinDark
-  url: http://dogecoindark.net/
-  icon: dogecoindark
+- name: EGulden
+  url: http://e-gulden.org/
+  icon: egulden
 
 - name: Feathercoin
   url: https://www.feathercoin.com/
   icon: feathercoin
+
+- name: Gulden
+  url: https://gulden.com/
+  icon: gulden
 
 - name: GCRcoin
   url: http://gcrcoin.com/
@@ -86,9 +106,17 @@
   url: http://peercoin.net/
   icon: peercoin
 
+- name: Potcoin
+  url: http://www.potcoin.com/
+  icon: potcoin
+
 - name: Reddcoin
   url: https://www.reddcoin.com/
   icon: reddcoin
+
+- name: Richcoin
+  url: http://richcoin.info/
+  icon: richcoin
 
 - name: Rubycoin
   url: http://www.rubycoin.org/
@@ -97,6 +125,10 @@
 - name: ShadowCash
   url: http://aboutshadow.com/
   icon: shadowcash
+  
+- name: Verge
+  url: http://vergecurrency.com/
+  icon: verge
 
 - name: Vertcoin
   url: https://vertcoin.org/
