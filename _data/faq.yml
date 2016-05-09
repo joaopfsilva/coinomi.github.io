@@ -89,7 +89,7 @@
   category: general
 
 - question: Can I import a standard private key to Coinomi?
-  answer: No, you cannot, although this will be available soon.
+  answer: Yes, you can. Go to the coin of your choice, then click on Settings and you will see an option to import a private key / sweep a paper wallet.
   code: import-standard-key-to-coinomi
   category: general
 
