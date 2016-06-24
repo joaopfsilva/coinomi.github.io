@@ -103,11 +103,6 @@
   code: import-keys-to-non-hd-wallet
   category: general
         
-- question: My coins are very volatile and I'm worried I might lose part of my funds if price goes down, can I lock them somehow?
-  answer: You can turn your coins to NuBits through our integrated exchange. NuBits are pegged to the US Dollar at a 1 to 1 ratio, so 1 NuBit is equal to 1 US dollar in value. Unlike other wallets, with Coinomi and NuBits you can have your funds "locked" without leaving them exposed to hackers and shutdowns at an exchange, as NuBits will be kept at all times in your device.
-  code: how-to-lock-my-funds
-  category: general
-
 - question: How could I have access to my wallets with all needed passphrases and passwords so my family could take my hardly mined coins?
   answer: If your family has physical access to your device when you're gone, all they need to know is your password. If they don't, they will also need your seed phrase. It's up to you to choose how you want to pass on this information. Your family is always welcome to drop us a line so we can point them towards the right direction so please make sure you include our contact details along with your instructions.
   code: what-if-I-die
