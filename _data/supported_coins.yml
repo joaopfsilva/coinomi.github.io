@@ -50,9 +50,17 @@
   url: http://dogecoin.com/
   icon: dogecoin
 
+- name: EDRCoin
+  url: https://edrcoin.com/
+  icon: edrcoin
+
 - name: EGulden
   url: http://e-gulden.org/
   icon: egulden
+
+- name: Ethereum
+  url: https://www.ethereum.org/
+  icon: ethereum
 
 - name: Feathercoin
   url: https://www.feathercoin.com/
@@ -65,6 +73,10 @@
 - name: GCRcoin
   url: http://gcrcoin.com/
   icon: gcr
+
+- name: IXCoin
+  url: https://bitcointalk.org/index.php?topic=36218.0
+  icon: ixcoin
 
 - name: Jumbucks
   url: http://getjumbucks.com/
@@ -125,7 +137,15 @@
 - name: ShadowCash
   url: http://aboutshadow.com/
   icon: shadowcash
-  
+ 
+- name: Solarcoin
+  url: http://solarcoin.org/
+  icon: solarcoin
+ 
+- name: Syscoin
+  url: http://syscoin.org/
+  icon: syscoin
+
 - name: Verge
   url: http://vergecurrency.com/
   icon: verge
