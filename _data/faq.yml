@@ -9,7 +9,7 @@
   category: general
   
 - question: How can I integrate a coin that is not already supported by Coinomi?
-  answer: If you want to add support for your coin to Coinomi please <a href="../AddingSupportForANewCurrency/">follow the instructions</a>. If you don't know how or would rather have someone qualified to do this please <a href="../support/">get in touch with us</a>.
+  answer: Please <a href="../support/">get in touch with us</a>.
   code: integrate-coin
   category: general
   
