@@ -62,17 +62,25 @@
   url: https://www.ethereum.org/
   icon: ethereum
 
+- name: Ethereum Classic
+  url: https://ethereumclassic.github.io/
+  icon: ethereum
+
 - name: Feathercoin
   url: https://www.feathercoin.com/
   icon: feathercoin
 
-- name: Gulden
-  url: https://gulden.com/
-  icon: gulden
-
 - name: GCRcoin
   url: http://gcrcoin.com/
   icon: gcr
+
+- name: Gridcoin
+  url: http://www.gridcoin.us/
+  icon: gridcoin
+
+- name: Gulden
+  url: https://gulden.com/
+  icon: gulden
 
 - name: IXCoin
   url: https://bitcointalk.org/index.php?topic=36218.0
@@ -110,6 +118,10 @@
   url: https://nubits.com/nushares/introduction
   icon: nushares
 
+- name: OKCash
+  url: http://okcash.co/
+  icon: okcash
+
 - name: ParkByte
   url: https://www.parkbyte.com/
   icon: parkbyte
@@ -137,6 +149,10 @@
 - name: ShadowCash
   url: http://aboutshadow.com/
   icon: shadowcash
+
+- name: Smileycoin
+  url: https://tutor-web.info/smileycoin
+  icon: smileycoin
  
 - name: Solarcoin
   url: http://solarcoin.org/
@@ -145,6 +161,10 @@
 - name: Syscoin
   url: http://syscoin.org/
   icon: syscoin
+
+- name: Unobtanium
+  url: http://unobtanium.uno/
+  icon: unobtanium
 
 - name: Verge
   url: http://vergecurrency.com/
