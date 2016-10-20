@@ -24,7 +24,7 @@
   category: general
   
 - question: I have forgotten my app password, is it possible to recover it?
-  answer: It is possible if you haven't enabled BIP39 passphrase with your recovery phrase. To test it, use <a href="../recovery-phrase-tool.html" target="_blank">this tool</a> with your recovery phrase and look if the addresses in the "Derived Addresses" section match the addresses in your wallet. If this is the case you can restore your wallet with your recovery phrase and set a new password. If however the addresses don't match, you will need to remember your password and enter it to the "BIP39 Passphrase (optional)" field.
+  answer: It is possible if you haven't enabled BIP39 passphrase with your recovery phrase. To test it, use <a href="../recovery-phrase-tool.html" target="_blank">this tool</a> with your recovery phrase and look if the addresses in the "Derived Addresses" section match the addresses in your wallet. If this is the case you can restore your wallet with your recovery phrase and set a new password. If however the addresses don't match, you will need to remember your passphrase and enter it to the "BIP39 Passphrase (optional)" field.
   code: forgot-app-password-how-to-recover-it
   category: general
   
