@@ -178,6 +178,10 @@
   url: https://bitcointalk.org/index.php?topic=705446.0
   icon: vpncoin
 
+- name: ZCash
+  url: https://z.cash/
+  icon: zcash
+
 - name: Bitcoin Test
   url: https://bitcoin.org/en/
   icon: bitcoin_test
