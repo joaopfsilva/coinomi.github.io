@@ -19,7 +19,7 @@
   category: general
   
 - question: I restored my wallet using the correct passphrase but I don't see my funds.
-  answer: Most probably it's because you have activated the BIP39 passphrase but you didn't activate it throughout the restoration process, so you will have to repeat it.
+  answer: "Most probably it's because you have added a BIP39 passphrase protection but you didn't enabled it throughout the restoration process, so you will have to repeat it.<br><br>We have created 2 example wallets to try the restoration process, one has it's recovery phrase protected with a BIP39 passphrase and the other not.<br>If your restore them and you do it correctly, you will see 2 transactions in each wallet's Bitcoin account.<br>Ignore that the recovery phrases are short, they are insecure but still valid.<br><br>(Press the menu button, then Settings -> Restore wallet -> Restore a wallet)<br><br>Wallet 1:<br>Recovery phrase: area fog genius<br>No BIP39 passphrase<br><br>Wallet 2:<br>Recovery phrase: teach reason poem<br>Enter the following BIP39 passphrase: t4@P2<br><br>Notice, you will get an empty wallet in the following occasions:<br><br>- If you select 'Use a BIP39 passphrase' for the Wallet 1 and enter any passphrase.<br>- If you don't select 'Use a BIP39 passphrase' for the Wallet 2 or if you enter a different passphrase."
   code: restored-wallet-dont-see-funds
   category: general
   
