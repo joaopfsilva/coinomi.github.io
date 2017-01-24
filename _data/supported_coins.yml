@@ -2,6 +2,10 @@
   url: https://bitcoin.org/en/
   icon: bitcoin
 
+- name: Abncoin
+  url: https://aviabitcoin.com/
+  icon: abncoin
+
 - name: Asiacoin
   url: http://www.thecoin.asia/
   icon: asiacoin
@@ -66,6 +70,10 @@
   url: https://ethereumclassic.github.io/
   icon: ethereum
 
+- name: Expanse
+  url: http://www.expanse.tech/
+  icon: expanse
+
 - name: Feathercoin
   url: https://www.feathercoin.com/
   icon: feathercoin
@@ -101,6 +109,10 @@
 - name: Namecoin
   url: https://namecoin.info/
   icon: namecoin
+
+- name: Navcoin
+  url: http://navcoin.org/
+  icon: navcoin
 
 - name: Neoscoin
   url: http://www.neoscoin.com/
