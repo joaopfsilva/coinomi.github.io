@@ -4,54 +4,57 @@ title: Coinomi - Monero Project
 ---
 
 <div class="container">
+  <p>
+    <strong>Proposal: Monero Light Client libraries and Indexer development.</strong>
+  </p>
+  <p>
+    The goal is to develop open source implementations of monero transaction signing for Java. In addition to the signing of the transactions the development of a fast indexer is needed.
+  </p>
+  <p>
+    Once the above is in place, Monero will be added to Coinomi Wallet by Coinomi for no charge other than the servers running cost.
+  </p>
 
-      <p>
-        <strong>Proposal: Monero Light Client libraries and Indexer development.</strong>
-      </p>
-      <p>
-        The goal is to develop open source implementations of monero transaction signing for Java. In addition to the signing of the transactions the development of a fast indexer is needed.
-      </p>
-      <p>
-        Once the above is in place, Monero will be added to Coinomi Wallet by Coinomi for no charge other than the servers running cost.
-      </p>
+  <p>
+    <strong>
+      Main goals:
+    </strong>
+    <ul>
+      <li>
+        Transaction Java class(s), loosely compatible with Bitcoinj that can serialize, deserialize and sign provided a list of outputs/mixin-pubkeys. An extensive unit test suite is required.
+      </li>
+      <li>
+        Indexer server that will consume the monerod API to index transaction histories, hold watch-keys (preferably in an HSM), notify connected users of any updates. The indexer API can be similar to the Electrum API. The indexer should be written in C++ to take advantage of the existing code.
+      </li>
+    </ul>
+  </p>
 
-      <p>
-        <strong>
-          Main goals:
-        </strong>
-        <ul>
-          <li>
-            Transaction Java class(s), loosely compatible with Bitcoinj that can serialize, deserialize and sign provided a list of outputs/mixin-pubkeys. An extensive unit test suite is required.
-          </li>
-          <li>
-            Indexer server that will consume the monerod API to index transaction histories, hold watch-keys (preferably in an HSM), notify connected users of any updates. The indexer API can be similar to the Electrum API. The indexer should be written in C++ to take advantage of the existing code.
-          </li>
-        </ul>
-      </p>
+  <p>
+    <strong>
+      Developers needed:
+    </strong>
+    <ul>
+      <li>
+        Monero protocol knowledge, ring signatures, transaction serialization format.
+      </li>
+      <li>
+        Java or C++ knowledge
+      </li>
+      <li>
+        Async IO (for indexer)
+      </li>
+    </ul>
+  </p>
 
-      <p>
-        <strong>
-          Developers needed:
-        </strong>
-        <ul>
-          <li>
-            Monero protocol knowledge, ring signatures, transaction serialization format.
-          </li>
-          <li>
-            Java or C++ knowledge
-          </li>
-          <li>
-            Async IO (for indexer)
-          </li>
-        </ul>
-      </p>
+  <p>
+    <strong>
+      Contact:
+    </strong>
+    <br/>
+    <a href="mailto:support@coinomi.com">support@coinomi.com</a>
+  </p>
 
-      <p>
-        <strong>
-          Contact:
-        </strong>
-        <br/>
-        <a href="mailto:support@coinomi.com">support@coinomi.com</a>
-      </p>
+  <div class="header">
+    <img src="/img/coinomi-and-monero.png" height="200" width="200" />
+  </div>
 
 </div>
