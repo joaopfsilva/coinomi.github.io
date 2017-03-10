@@ -142,6 +142,10 @@
   url: http://peercoin.net/
   icon: peercoin
 
+- name: Pesobit
+  url: https://www.pesobit.net/
+  icon: pesobit
+
 - name: Potcoin
   url: http://www.potcoin.com/
   icon: potcoin
