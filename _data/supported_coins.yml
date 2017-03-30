@@ -62,6 +62,10 @@
   url: http://e-gulden.org/
   icon: egulden
 
+- name: Einsteinium
+  url: https://www.emc2.foundation/
+  icon: einsteinium
+
 - name: Ethereum
   url: https://www.ethereum.org/
   icon: ethereum
@@ -146,6 +150,10 @@
   url: https://www.pesobit.net/
   icon: pesobit
 
+- name: PIVX
+  url: https://www.pivx.org/
+  icon: pivx
+
 - name: Potcoin
   url: http://www.potcoin.com/
   icon: potcoin
@@ -173,6 +181,10 @@
 - name: Solarcoin
   url: http://solarcoin.org/
   icon: solarcoin
+ 
+- name: Stratis
+  url: https://stratisplatform.com/
+  icon: stratis
  
 - name: Syscoin
   url: http://syscoin.org/
