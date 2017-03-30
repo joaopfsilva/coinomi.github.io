@@ -132,12 +132,14 @@ customjs:
     				<center><h5><strong>Supported Coins<strong></h5></center>
     				<br />
     				{% for coin in site.data.supported_coins %}
-    				<div class="col-xs-6 col-sm-3 col-md-2" style="padding-bottom:25px; text-align:center; vertical-align:middle;">
-    					<img src="https://raw.githubusercontent.com/Coinomi/crypto-icons/master/png/{{ coin.icon }}.png" width="40px;" alt="{{ coin.icon }}"/>
-    					<div style="text-align:center; vertical-align:middle; padding:2px; font-size: 12px;">
-    						<strong><a href="{{ coin.url }}" target="_blank">{{ coin.name }}</a></strong>
-    					</div>
-    				</div>
+                    <a href="{{ coin.url }}" target="_blank">
+        				<div class="col-xs-6 col-sm-3 col-md-2" style="padding-bottom:25px; text-align:center; vertical-align:middle;">
+        					<img src="https://raw.githubusercontent.com/Coinomi/crypto-icons/master/png/{{ coin.icon }}.png" width="40px;" alt="{{ coin.icon }}"/>
+        					<div style="text-align:center; vertical-align:middle; padding:2px; font-size: 12px;">
+        						<strong>{{ coin.name }}</strong>
+        					</div>
+        				</div>
+                    </a>
     				{% endfor %}
 
    <!-- <div class="text-center">
