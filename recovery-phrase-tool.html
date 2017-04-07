@@ -15920,13 +15920,16 @@ var Mnemonic = function(language) {
                     }
                 }
                 var privkey;
+
+                var pubkey = key.pubKey.toHex();
                 if (!network.ethereum) {
                     privkey = key.privKey.toWIF(network);
                 }
                 else {
                     privkey = "0x" + key.privKey.d.toString(16);
+                    pubkey = "0x" + pubkey;
                 }
-                addAddressToList(index, address, privkey);
+                addAddressToList(index, address, pubkey, privkey);
             }, 50)
         }
 
