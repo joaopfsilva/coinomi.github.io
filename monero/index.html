@@ -24,6 +24,7 @@ title: Coinomi - Monero Project
       </li>
       <li>
         Indexer server that will consume the monerod API to index transaction histories, hold watch-keys (preferably in an HSM), notify connected users of any updates. The indexer API can be similar to the Electrum API. The indexer should be written in C++ to take advantage of the existing code.
+        After discussions with the <a href="https://github.com/kyuupichan/electrumx">ElectrumX project</a>, we have decided to implement Monero support on top of it.
       </li>
     </ul>
   </p>
@@ -37,7 +38,7 @@ title: Coinomi - Monero Project
         Monero protocol knowledge, ring signatures, transaction serialization format.
       </li>
       <li>
-        Java or C++ knowledge
+        Python, C++ or Java
       </li>
       <li>
         Async IO (for indexer)
