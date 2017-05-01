@@ -19,12 +19,12 @@
   category: general
   
 - question: I restored my wallet using the correct passphrase but I don't see my funds.
-  answer: "Most probably it's because you have added a BIP39 passphrase protection but you didn't enabled it throughout the restoration process, so you will have to repeat it.<br><br>We have created 2 example wallets to try the restoration process, one has it's recovery phrase protected with a BIP39 passphrase and the other not.<br>If your restore them and you do it correctly, you will see 2 transactions in each wallet's Bitcoin account.<br>Ignore that the recovery phrases are short, they are insecure but still valid.<br><br>(Press the menu button, then Settings -> Restore wallet -> Restore a wallet)<br><br>Wallet 1:<br>Recovery phrase: area fog genius<br>No BIP39 passphrase<br><br>Wallet 2:<br>Recovery phrase: teach reason poem<br>Enter the following BIP39 passphrase: t4@P2<br><br>Notice, you will get an empty wallet in the following occasions:<br><br>- If you select 'Use a BIP39 passphrase' for the Wallet 1 and enter any passphrase.<br>- If you don't select 'Use a BIP39 passphrase' for the Wallet 2 or if you enter a different passphrase."
+  answer: "Most probably it's because you had added a BIP39 passphrase protection but you didn't enable it throughout the restoration process, so you will have to repeat it.<br><br>We have created 2 example wallets to try the restoration process, one has its recovery phrase protected with a BIP39 passphrase and the other does not.<br>If you restore them and you do it correctly, you will see 2 transactions in each wallet's Bitcoin account.<br>Ignore that the recovery phrases are short, they are insecure but still valid.<br><br>(Press the menu button, then Settings -> Restore wallet -> Restore a wallet)<br><br>Wallet 1:<br>Recovery phrase: area fog genius<br>No BIP39 passphrase<br><br>Wallet 2:<br>Recovery phrase: teach reason poem<br>Enter the following BIP39 passphrase: t4@P2<br><br>Notice, you will get an empty wallet in the following occasions:<br><br>- If you select 'Use a BIP39 passphrase' for the Wallet 1 and enter any passphrase.<br>- If you don't select 'Use a BIP39 passphrase' for the Wallet 2 or if you enter a different passphrase."
   code: restored-wallet-dont-see-funds
   category: general
   
 - question: I have forgotten my app password, is it possible to recover it?
-  answer: It is possible if you haven't enabled BIP39 passphrase with your recovery phrase. To test it, use <a href="../recovery-phrase-tool.html" target="_blank">this tool</a> with your recovery phrase and look if the addresses in the "Derived Addresses" section match the addresses in your wallet. If this is the case you can restore your wallet with your recovery phrase and set a new password. If however the addresses don't match, you will need to remember your passphrase and enter it to the "BIP39 Passphrase (optional)" field.
+  answer: It is possible if you haven't enabled BIP39 passphrase with your recovery phrase. To test it, use <a href="../recovery-phrase-tool.html" target="_blank">this tool</a> with your recovery phrase and see if the addresses in the "Derived Addresses" section match the addresses in your wallet. If this is the case you can restore your wallet with your recovery phrase and set a new password. If however the addresses don't match, you will need to remember your passphrase and enter it in the "BIP39 Passphrase (optional)" field.
   code: forgot-app-password-how-to-recover-it
   category: general
   
@@ -69,12 +69,12 @@
   category: general
 
 - question: I have changed coins using the integrated ShapeShift exchange but I don't see it going through.
-  answer: Please advise <a href="https://shapeshift.zendesk.com/hc/en-us/articles/202585582-What-happens-if-my-transaction-doesn-t-go-through-">this article</a> 
+  answer: Please consult <a href="https://shapeshift.zendesk.com/hc/en-us/articles/202585582-What-happens-if-my-transaction-doesn-t-go-through-">this article</a> 
   code: shapeshift-tx-stuck
   category: general
 
 - question: I want to translate Coinomi to my language.
-  answer: We would love to have Coinomi translated to your language please create an account and start translating <a href="https://coinomi.oneskyapp.com/collaboration/project/15517" target="_blank">here</a> or <a href="../support/">contact us</a> for more.
+  answer: We would love to have Coinomi translated to your language, please create an account and start translating <a href="https://coinomi.oneskyapp.com/collaboration/project/15517" target="_blank">here</a> or <a href="../support/">contact us</a> for more.
   code: translate-coinomi
   category: general
 
@@ -103,7 +103,7 @@
   code: import-keys-to-non-hd-wallet
   category: general
         
-- question: How could I have access to my wallets with all needed passphrases and passwords so my family could take my hardly mined coins?
+- question: How could I have access to my wallets with all needed passphrases and passwords so my family could take my mined coins?
   answer: If your family has physical access to your device when you're gone, all they need to know is your password. If they don't, they will also need your seed phrase. It's up to you to choose how you want to pass on this information. Your family is always welcome to drop us a line so we can point them towards the right direction so please make sure you include our contact details along with your instructions.
   code: what-if-I-die
   category: general
