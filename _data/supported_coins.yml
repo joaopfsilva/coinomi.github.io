@@ -18,17 +18,21 @@
   url: http://www.bata.io/
   icon: batacoin
 
+- name: Bitcoin Plus
+  url: http://www.bitcoinplus.org/
+  icon: bitcoinplus
+
 - name: Blackcoin
   url: http://www.blackcoin.co/
   icon: blackcoin
 
-- name: Cannacoin
-  url: http://cannacoin.cc/
-  icon: cannacoin
-
 - name: Canada eCoin
   url: http://www.canadaecoin.ca/
   icon: canadaecoin
+
+- name: Cannacoin
+  url: http://cannacoin.cc/
+  icon: cannacoin
 
 - name: Clams
   url: http://www.clamcoin.org/
@@ -72,7 +76,7 @@
 
 - name: Ethereum Classic
   url: https://ethereumclassic.github.io/
-  icon: ethereum
+  icon: ethclassic
 
 - name: Expanse
   url: http://www.expanse.tech/
@@ -81,6 +85,10 @@
 - name: Feathercoin
   url: https://www.feathercoin.com/
   icon: feathercoin
+
+- name: Game Credits
+  url: https://gamecredits.com/
+  icon: gamecredits
 
 - name: GCRcoin
   url: http://gcrcoin.com/
@@ -94,13 +102,21 @@
   url: https://gulden.com/
   icon: gulden
 
+- name: Internet of People
+  url: http://www.fermat.org/
+  icon: iop
+
 - name: IXCoin
-  url: https://bitcointalk.org/index.php?topic=36218.0
+  url: https://www.ixcoin.net/
   icon: ixcoin
 
 - name: Jumbucks
   url: http://getjumbucks.com/
   icon: jumbucks
+
+- name: Landcoin
+  url: https://landcoin.co/
+  icon: landcoin
 
 - name: Litecoin
   url: https://litecoin.org/
@@ -109,6 +125,10 @@
 - name: Monacoin
   url: http://monacoin.org/
   icon: monacoin
+
+- name: Myriadcoin
+  url: http://myriadcoin.org/en/home
+  icon: myriadcoin
 
 - name: Namecoin
   url: https://namecoin.info/
@@ -153,6 +173,10 @@
 - name: PIVX
   url: https://www.pivx.org/
   icon: pivx
+
+- name: POSW
+  url: https://poswallet.com/
+  icon: posw
 
 - name: Potcoin
   url: http://www.potcoin.com/
