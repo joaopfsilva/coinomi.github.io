@@ -18,6 +18,10 @@
   url: http://www.bata.io/
   icon: batacoin
 
+- name: Belacoin
+  url: http://belacoin.org/
+  icon: belacoin
+
 - name: Bitcoin Plus
   url: http://www.bitcoinplus.org/
   icon: bitcoinplus
@@ -25,6 +29,10 @@
 - name: Blackcoin
   url: http://www.blackcoin.co/
   icon: blackcoin
+
+- name: Britcoin
+  url: http://britcoin.com/
+  icon: britcoin
 
 - name: Canada eCoin
   url: http://www.canadaecoin.ca/
@@ -41,6 +49,10 @@
 - name: Clubcoin
   url: http://clubcoin.co/
   icon: clubcoin
+
+- name: Compcoin
+  url: https://compcoin.com/
+  icon: compcoin
 
 - name: Dash
   url: https://www.dashpay.io/
@@ -102,6 +114,10 @@
   url: https://gulden.com/
   icon: gulden
 
+- name: Insanecoin
+  url: http://insanecoin.com/
+  icon: insane
+
 - name: Internet of People
   url: http://www.fermat.org/
   icon: iop
@@ -117,6 +133,10 @@
 - name: Landcoin
   url: https://landcoin.co/
   icon: landcoin
+
+- name: LBRY Credits
+  url: http://lbry.io/
+  icon: lbry
 
 - name: Litecoin
   url: https://litecoin.org/
@@ -233,6 +253,10 @@
 - name: ZCash
   url: https://z.cash/
   icon: zcash
+
+- name: ZCoin
+  url: http://zcoin.io/
+  icon: zcoin
 
 - name: Bitcoin Test
   url: https://bitcoin.org/en/
