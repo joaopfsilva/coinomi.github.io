@@ -58,6 +58,14 @@
   url: https://www.dashpay.io/
   icon: dash
 
+- name: Defcoin
+  url: http://defcoin-ng.org
+  icon: defcoin
+
+- name: Denarius
+  url: https://denarius.io
+  icon: denarius
+
 - name: Digibyte
   url: http://www.digibyte.co/
   icon: digibyte
@@ -69,6 +77,10 @@
 - name: Dogecoin
   url: http://dogecoin.com/
   icon: dogecoin
+
+- name: Ecoin
+  url: https://www.ecoinsource.com
+  icon: ecoin
 
 - name: EDRCoin
   url: https://edrcoin.com/
@@ -98,6 +110,10 @@
   url: https://www.feathercoin.com/
   icon: feathercoin
 
+- name: Flashcoin
+  url: https://flashcoin.io
+  icon: flashcoin
+
 - name: Game Credits
   url: https://gamecredits.com/
   icon: gamecredits
@@ -113,6 +129,10 @@
 - name: Gulden
   url: https://gulden.com/
   icon: gulden
+
+- name: Hempcoin
+  url: http://hempcoin.org
+  icon: hempcoin
 
 - name: Insanecoin
   url: http://insanecoin.com/
@@ -138,6 +158,10 @@
   url: http://lbry.io/
   icon: lbry
 
+- name: Linx
+  url: https://mylinx.io
+  icon: linx
+
 - name: Litecoin
   url: https://litecoin.org/
   icon: litecoin
@@ -161,6 +185,10 @@
 - name: Neoscoin
   url: http://www.neoscoin.com/
   icon: neoscoin
+
+- name: Neurocoin
+  url: https://neurocoin.org
+  icon: neurocoin
 
 - name: Novacoin
   url: http://novacoin.org/
@@ -190,6 +218,10 @@
   url: https://www.pesobit.net/
   icon: pesobit
 
+- name: Pinkcoin
+  url: http://getstarted.with.pink
+  icon: pinkcoin
+
 - name: PIVX
   url: https://www.pivx.org/
   icon: pivx
@@ -201,6 +233,10 @@
 - name: Potcoin
   url: http://www.potcoin.com/
   icon: potcoin
+
+- name: Putincoin
+  url: https://putincoin.info
+  icon: putincoin
 
 - name: Reddcoin
   url: https://www.reddcoin.com/
@@ -233,6 +269,10 @@
 - name: Syscoin
   url: http://syscoin.org/
   icon: syscoin
+
+- name: Ultimate Secure Cash
+  url: http://ultimatesecurecash.info
+  icon: ultimatesecurecash
 
 - name: Unobtanium
   url: http://unobtanium.uno/
