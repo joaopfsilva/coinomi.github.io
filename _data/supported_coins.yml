@@ -206,10 +206,6 @@
   url: http://okcash.co/
   icon: okcash
 
-- name: ParkByte
-  url: https://www.parkbyte.com/
-  icon: parkbyte
-
 - name: Peercoin
   url: http://peercoin.net/
   icon: peercoin
