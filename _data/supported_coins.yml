@@ -2,6 +2,10 @@
   url: https://bitcoin.org/en/
   icon: bitcoin
 
+- name: Adcoin
+  url: https://www.getadcoin.com/
+  icon: adcoin
+
 - name: Abncoin
   url: https://aviabitcoin.com/
   icon: abncoin
@@ -22,9 +26,21 @@
   url: http://belacoin.org/
   icon: belacoin
 
+- name: Bitcoin Cash
+  url: https://www.bitcoincash.org
+  icon: bitcoincash
+
 - name: Bitcoin Plus
   url: http://www.bitcoinplus.org/
   icon: bitcoinplus
+
+- name: Bitcore
+  url: https://bitcore.cc
+  icon: bitcore
+
+- name: BitSend
+  url: http://bitsend.info
+  icon: bitsend
 
 - name: Blackcoin
   url: http://www.blackcoin.co/
@@ -66,6 +82,10 @@
   url: https://denarius.io
   icon: denarius
 
+- name: Diamond
+  url: http://bit.diamonds
+  icon: diamond
+
 - name: Digibyte
   url: http://www.digibyte.co/
   icon: digibyte
@@ -101,6 +121,10 @@
 - name: Ethereum Classic
   url: https://ethereumclassic.github.io/
   icon: ethclassic
+
+- name: EuropeCoin
+  url: https://www.europecoin.eu.org/
+  icon: europecoin
 
 - name: Expanse
   url: http://www.expanse.tech/
@@ -266,6 +290,10 @@
   url: http://syscoin.org/
   icon: syscoin
 
+- name: TOACoin
+  url: http://www.toacoin.com
+  icon: toacoin
+
 - name: Ultimate Secure Cash
   url: http://ultimatesecurecash.info
   icon: ultimatesecurecash
@@ -274,6 +302,10 @@
   url: http://unobtanium.uno/
   icon: unobtanium
 
+- name: Vcash
+  url: https://vcash.info
+  icon: vcash
+
 - name: Verge
   url: http://vergecurrency.com/
   icon: verge
@@ -281,6 +313,10 @@
 - name: Vertcoin
   url: https://vertcoin.org/
   icon: vertcoin
+
+- name: Viacoin
+  url: https://viacoin.org
+  icon: viacoin
 
 - name: Vpncoin
   url: https://bitcointalk.org/index.php?topic=705446.0
