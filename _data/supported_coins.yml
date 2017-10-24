@@ -70,6 +70,10 @@
   url: https://compcoin.com/
   icon: compcoin
 
+- name: Crown
+  url: https://www.crown.tech/
+  icon: crown
+
 - name: Dash
   url: https://www.dashpay.io/
   icon: dash
