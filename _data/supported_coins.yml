@@ -30,6 +30,10 @@
   url: https://www.bitcoincash.org
   icon: bitcoincash
 
+- name: Bitcoin Gold
+  url: https://bitcoingold.org/
+  icon: bitcoingold
+
 - name: Bitcoin Plus
   url: http://www.bitcoinplus.org/
   icon: bitcoinplus
